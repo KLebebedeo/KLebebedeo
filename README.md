@@ -1,7 +1,7 @@
 # Добро Пожаловать На Мой Github 
 
 <p align="center">
- <img width="800" src="oiiA-cat.gif" alt="OIIA OIIA Cat"/>
+ <img width="800" src="cat u ii a.webp" alt="OIIA OIIA Cat"/>
 </p>
 
 <p align="center">
